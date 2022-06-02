@@ -49,10 +49,3 @@ Since this pipeline consists on contanaraized images we have created images of d
 ```bash
  /share/data/software/singularity/
 ```
-
-
-
-
-
-
-# Nextflow-Containers-Mapping
